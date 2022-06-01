@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * https://programmers.co.kr/learn/courses/30/lessons/12915
+ */
 public class 문자열내마음대로정렬하기 {
     public static void main(String[] args) {
         String[] strings = {"abce", "abcd", "cdx"};
