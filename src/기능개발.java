@@ -5,6 +5,9 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+/**
+ * https://programmers.co.kr/learn/courses/30/lessons/42586?language=java
+ */
 public class 기능개발 {
     public static void main(String[] args) {
         int[] p = { 40, 93, 30, 55, 60, 65 };
