@@ -4,11 +4,10 @@ import java.util.stream.IntStream
 /**
  * https://programmers.co.kr/learn/courses/30/lessons/42889
  */
-fun main(args: Array<String>) {
-    실패율().solution(8, intArrayOf(1, 2, 3, 4, 5, 6, 7))
-}
-
 class 실패율 {
+    fun main(args: Array<String>) {
+        실패율().solution(8, intArrayOf(1, 2, 3, 4, 5, 6, 7))
+    }
     fun solution(N: Int, stages: IntArray): IntArray {
         return IntStream.range(1, N + 1).mapToObj { s ->
             when (val tryCount = stages.count { it >= s }) {
