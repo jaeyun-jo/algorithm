@@ -2,6 +2,9 @@ package x만큼간격이있는n개의숫자;
 
 import java.util.stream.LongStream;
 
+/**
+ * https://programmers.co.kr/learn/courses/30/lessons/12954
+ */
 public class x만큼간격이있는n개의숫자 {
     public static void main(String[] args) {
         solution(2, 5);
