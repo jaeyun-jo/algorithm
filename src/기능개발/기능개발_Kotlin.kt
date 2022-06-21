@@ -6,7 +6,7 @@ import java.util.stream.IntStream
 import kotlin.math.ceil
 
 /**
- * https://programmers.co.kr/learn/courses/30/lessons/42586?language=java
+ * https://programmers.co.kr/learn/courses/30/lessons/42586
  */
 
 fun main(args: Array<String>) {

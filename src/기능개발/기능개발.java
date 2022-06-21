@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * https://programmers.co.kr/learn/courses/30/lessons/42586?language=java
+ * https://programmers.co.kr/learn/courses/30/lessons/42586
  */
 public class 기능개발 {
     public static void main(String[] args) {
